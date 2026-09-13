@@ -1,4 +1,9 @@
 # Hashcat GUI for Windows
+<p align="center">
+  <img src="hashcat.png" width="180">
+</p>
+
+# Hashcat GUI for Windows
 
 A simple Windows GUI for [Hashcat](https://hashcat.net/hashcat/) built with Python and PyQt5.
 
