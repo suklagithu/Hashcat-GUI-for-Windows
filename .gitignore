@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Hashcat installation
+hashcat/
+hashcat.exe
+hashcat.bin
+
+# Test data
+*.hash
+*.hc22000
+*.cap
+*.pcap
+*.pcapng
+rockyou.txt
+
+# Generated files
+case*/
+raw_output.log
+.hashcat_suite_converted/
